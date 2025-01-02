@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc --build",
-    "vercel-build": "tsc && node dist/index.js",
+    "vercel-build": "",
     "dev": "tsx dist/index.js"
   },
   "keywords": [],
